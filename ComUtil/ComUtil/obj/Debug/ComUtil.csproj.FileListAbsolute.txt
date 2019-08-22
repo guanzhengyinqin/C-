@@ -1,0 +1,10 @@
+D:\workspace\codeWorkspace\visualStudioProject\C#Project\ComUtil\ComUtil\ComUtil\bin\Debug\ComUtil.exe.config
+D:\workspace\codeWorkspace\visualStudioProject\C#Project\ComUtil\ComUtil\ComUtil\bin\Debug\ComUtil.exe
+D:\workspace\codeWorkspace\visualStudioProject\C#Project\ComUtil\ComUtil\ComUtil\bin\Debug\ComUtil.pdb
+D:\workspace\codeWorkspace\visualStudioProject\C#Project\ComUtil\ComUtil\ComUtil\obj\Debug\ComUtil.csprojAssemblyReference.cache
+D:\workspace\codeWorkspace\visualStudioProject\C#Project\ComUtil\ComUtil\ComUtil\obj\Debug\ComUtil.Properties.Resources.resources
+D:\workspace\codeWorkspace\visualStudioProject\C#Project\ComUtil\ComUtil\ComUtil\obj\Debug\ComUtil.util.resources
+D:\workspace\codeWorkspace\visualStudioProject\C#Project\ComUtil\ComUtil\ComUtil\obj\Debug\ComUtil.csproj.GenerateResource.cache
+D:\workspace\codeWorkspace\visualStudioProject\C#Project\ComUtil\ComUtil\ComUtil\obj\Debug\ComUtil.csproj.CoreCompileInputs.cache
+D:\workspace\codeWorkspace\visualStudioProject\C#Project\ComUtil\ComUtil\ComUtil\obj\Debug\ComUtil.exe
+D:\workspace\codeWorkspace\visualStudioProject\C#Project\ComUtil\ComUtil\ComUtil\obj\Debug\ComUtil.pdb
